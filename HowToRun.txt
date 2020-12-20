@@ -4,3 +4,14 @@ git commit -m "Initial commit"
 git remote add origin remoteurl
 
 git push origin master
+
+
+
+# GCP DEPLOYMENT
+
+STEP1: Main python file should be main.py
+step2: same as app.py file
+step3:create new file and name as app.yaml
+step4:add the below content to yaml file
+step5: Initialize local git folder using below command
+   git init
